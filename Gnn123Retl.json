@@ -1,13 +1,14 @@
 {
-    "firstName": "Saint",
-    "lastName": "Nicholas",
-    "preferredName": "Santa",
-    "email": "oldsaintnick@north.pole",
+    "firstName": "Kwintyn",
+    "lastName": "Porter",
+    "preferredName": "Stevie Wonder",
+    "favoriteCar": "Invisible Boatmobile",
+    "email": "kwintynmporter@lewisu.edu",
     "phoneNumber": "919-444-1212",
     "city": "North Pole",
     "state": "Antarctica",
     "zip": "60449",
     "lat": "90",
     "lng": "0", 
-    "favoriteHobby": "Bringing joy to children"
+    "favoriteHobby": "Playing the piano without looking"
 } 
